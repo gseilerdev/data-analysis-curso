@@ -13,6 +13,6 @@ producto_estrella = "Auriculares Bluetooth"
 total_ventas = sum(ventas)
 promedio_ventas = total_ventas / len(ventas)
 
-reporte = f"Reporte de ventas - {fecha}\n Vendedor: {vendedor}\n Total ventas: ${total_ventas}\n Promedio por venta: ${promedio_ventas}\n Producto estrella:{producto_estrella}"
+reporte = f"Reporte de ventas - {fecha}\n Vendedor: {vendedor}\n Total ventas: ${total_ventas}\n Promedio por venta: ${promedio_ventas}\n Producto estrella:cñe{producto_estrella}"
 
 print(reporte)
